@@ -1,0 +1,169 @@
+CRITICAL - 2024-05-07 14:45:48 --> Error: Call to undefined function App\Controllers\NoticiasModel()
+[Method: GET, Route: noticias]
+in APPPATH\Controllers\Noticias.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Noticias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticias))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\wamp64\\www\\cursocodeigniter4\\public\\index.php')
+CRITICAL - 2024-05-07 14:55:14 --> Error: Call to undefined function App\Controllers\NoticiasModel()
+[Method: GET, Route: noticias]
+in APPPATH\Controllers\Noticias.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Noticias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticias))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\wamp64\\www\\cursocodeigniter4\\public\\index.php')
+CRITICAL - 2024-05-07 14:55:15 --> Error: Call to undefined function App\Controllers\NoticiasModel()
+[Method: GET, Route: noticias]
+in APPPATH\Controllers\Noticias.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Noticias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticias))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\wamp64\\www\\cursocodeigniter4\\public\\index.php')
+CRITICAL - 2024-05-07 14:55:16 --> Error: Call to undefined function App\Controllers\NoticiasModel()
+[Method: GET, Route: noticias]
+in APPPATH\Controllers\Noticias.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Noticias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticias))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\wamp64\\www\\cursocodeigniter4\\public\\index.php')
+CRITICAL - 2024-05-07 14:55:16 --> Error: Call to undefined function App\Controllers\NoticiasModel()
+[Method: GET, Route: noticias]
+in APPPATH\Controllers\Noticias.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Noticias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticias))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\wamp64\\www\\cursocodeigniter4\\public\\index.php')
+CRITICAL - 2024-05-07 14:55:17 --> Error: Call to undefined function App\Controllers\NoticiasModel()
+[Method: GET, Route: noticias]
+in APPPATH\Controllers\Noticias.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Noticias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticias))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\wamp64\\www\\cursocodeigniter4\\public\\index.php')
+CRITICAL - 2024-05-07 14:55:17 --> Error: Call to undefined function App\Controllers\NoticiasModel()
+[Method: GET, Route: noticias]
+in APPPATH\Controllers\Noticias.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Noticias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticias))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\wamp64\\www\\cursocodeigniter4\\public\\index.php')
+CRITICAL - 2024-05-07 14:55:17 --> Error: Call to undefined function App\Controllers\NoticiasModel()
+[Method: GET, Route: noticias]
+in APPPATH\Controllers\Noticias.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Noticias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticias))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\wamp64\\www\\cursocodeigniter4\\public\\index.php')
+CRITICAL - 2024-05-07 14:56:46 --> ErrorException: Undefined variable $title
+[Method: GET, Route: noticias]
+in APPPATH\Views\templates\header.php on line 11.
+ 1 APPPATH\Views\templates\header.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\wamp64\\www\\cursocodeigniter4\\app\\Views\\templates\\header.php', 11)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\cursocodeigniter4\\app\\Views\\templates\\header.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('templates/header', [], true)
+ 5 APPPATH\Controllers\Noticias.php(15): view('templates/header', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Noticias->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticias))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\wamp64\\www\\cursocodeigniter4\\public\\index.php')
+ERROR - 2024-05-07 22:17:24 --> mysqli_sql_exception: Table 'curso_codeigniter4.noticias' doesn't exist in C:\wamp64\www\cursocodeigniter4\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\wamp64\www\cursocodeigniter4\system\Database\MySQLi\Connection.php(308): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\wamp64\www\cursocodeigniter4\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\wamp64\www\cursocodeigniter4\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\wamp64\www\cursocodeigniter4\system\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\cursocodeigniter4\system\Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\cursocodeigniter4\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\wamp64\www\cursocodeigniter4\app\Models\NoticiasModel.php(15): CodeIgniter\BaseModel->findAll()
+#7 C:\wamp64\www\cursocodeigniter4\app\Controllers\Noticias.php(12): App\Models\NoticiasModel->getNoticias()
+#8 C:\wamp64\www\cursocodeigniter4\system\CodeIgniter.php(933): App\Controllers\Noticias->index()
+#9 C:\wamp64\www\cursocodeigniter4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticias))
+#10 C:\wamp64\www\cursocodeigniter4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\cursocodeigniter4\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\cursocodeigniter4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\wamp64\www\cursocodeigniter4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\wamp64\www\cursocodeigniter4\system\Commands\Server\rewrite.php(49): require_once('C:\\wamp64\\www\\c...')
+#15 {main}
+CRITICAL - 2024-05-07 22:17:24 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'curso_codeigniter4.noticias' doesn't exist
+[Method: GET, Route: noticias]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `noticias`', [], false)
+ 2 SYSTEMPATH\Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\NoticiasModel.php(15): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Noticias.php(12): App\Models\NoticiasModel->getNoticias()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Noticias->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticias))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\wamp64\\www\\cursocodeigniter4\\public\\index.php')
+CRITICAL - 2024-05-07 22:17:24 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'curso_codeigniter4.noticias' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `noticias`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `noticias`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `noticias`', [], false)
+ 4 SYSTEMPATH\Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Models\NoticiasModel.php(15): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\Noticias.php(12): App\Models\NoticiasModel->getNoticias()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Noticias->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticias))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\wamp64\\www\\cursocodeigniter4\\public\\index.php')
+CRITICAL - 2024-05-07 22:17:24 --> [Caused by] mysqli_sql_exception: Table 'curso_codeigniter4.noticias' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('SELECT *
+FROM `noticias`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `noticias`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `noticias`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `noticias`', [], false)
+ 5 SYSTEMPATH\Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Models\NoticiasModel.php(15): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\Noticias.php(12): App\Models\NoticiasModel->getNoticias()
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Noticias->index()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticias))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\wamp64\\www\\cursocodeigniter4\\public\\index.php')
