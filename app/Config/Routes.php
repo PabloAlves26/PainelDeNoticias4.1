@@ -31,11 +31,15 @@ $routes->match(['get','post'], 'noticias/gravar' ,'Noticias::gravar');
 $routes->match(['get','post'], 'noticias/editar/(:num)' ,'Noticias::editar/$1');
 $routes->match(['get','post'], 'noticias/excluir/(:num)' ,'Noticias::excluir/$1');
 //$routes->get('login', 'Usuarios::index'); // Corrigir: Deve ser habilitada se em produção
-$routes->get('login', 'Usuarios::index'); // Corrigir Linha de teste. Deve ser desabilitada se em produção
-$routes->get('usuarios/logout', 'Usuarios::logout');
-$routes->post('/usuarios/login', 'Usuarios::login'); // Corrigir Linha de teste. Deve ser desabilitada se em produção
+$routes->get('login', 'Usuarios::index'); // Inpotante
+$routes->get('usuarios/logout', 'Usuarios::logout'); //Impotante
+$routes->post('/usuarios/login', 'Usuarios::login'); // Corrigir detalhe na url
 $routes->get('noticias', 'Noticias::index');
 $routes->get('noticias/(:segment)','Noticias::item/$1');
+$routes->get('limparCache', 'Pages::limparCache');
+$routes->get('adicionarCache', 'Pages::adicionarCache');
+$routes->get('subtrairCache', 'Pages::subtrairCache');
+
 $routes->get('/', 'Pages::mostrar');
 $routes->get('(:any)', 'Pages::mostrar/$1');
 

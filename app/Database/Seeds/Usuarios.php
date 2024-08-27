@@ -6,8 +6,8 @@ class Usuarios extends \CodeIgniter\Database\Seeder
         {
 
             $data = [
-                'user' => 'admin',
-                'senha'    => md5('316153'),     
+                'user' => 'Pablo',
+                'senha'    => md5('141284'),     
                 ];
 
             $this->db->table('usuarios')->insert($data);

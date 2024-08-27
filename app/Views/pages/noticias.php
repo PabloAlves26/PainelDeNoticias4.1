@@ -1,6 +1,7 @@
 <div class="container">
 
 <?php if($session->get('logged_in')): ?>
+    <br>
     <a href="<?= '/noticias/inserir' ?>" class="btn btn-primary">Adicionar Noticia</a>
 <?php endif; ?>
 

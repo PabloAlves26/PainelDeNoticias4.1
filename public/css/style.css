@@ -1,0 +1,12 @@
+.cabecalho {
+    background-color:beige;
+    width: 100%;
+}
+.boasvindas {
+    font-weight: 500;
+}
+p #sair {
+    text-decoration: none;
+    letter-spacing: 3px;
+    font-size: 1.2rem;
+}

@@ -8,7 +8,7 @@
 
             $model = new NoticiasModel();
             $data = [
-                'title' => 'Últimas Noticias',
+                'title' => 'Últimas Notícias',
                 'noticias' => $model->getNoticias(),
                 'session' => \Config\Services::session(),
             ];
@@ -27,8 +27,8 @@
              $data['noticias'] = $model->getNoticias($id);
 
               if (!empty($data['noticias]'])){
-                throw new \CodeIgniter\Exceptions\PageNotFoundException('Não é possivel 
-                encontrar a noticia com a id: '. $id);
+                throw new \CodeIgniter\Exceptions\PageNotFoundException('Não é possível 
+                encontrar a notícia com a id: '. $id);
               }
 
             $data['title'] = $data['noticias']['titulo'];
@@ -46,7 +46,7 @@
 
             helper('form');
 
-            $data['title'] = 'Inserir Noticias';
+            $data['title'] = 'Inserir Notícias';
 
             echo view('templates/header',$data);
             echo view('pages/noticia_gravar');
@@ -58,7 +58,7 @@
             $model = new NoticiasModel();
 
              $data = [
-                'title' => 'Editar Noticia',
+                'title' => 'Editar Notícia',
                 'noticias' => $model->getNoticias($id),
                 'session' => \Config\Services::session(),
              ];
@@ -68,8 +68,8 @@
             }
 
               if (!empty($data['noticias]'])){
-                throw new \CodeIgniter\Exceptions\PageNotFoundException('Não é possivel 
-                encontrar a noticia com a id: '. $id);
+                throw new \CodeIgniter\Exceptions\PageNotFoundException('Não é possível 
+                encontrar a notícia com a id: '. $id);
               }
 
         
@@ -77,7 +77,7 @@
             echo view('pages/noticia_gravar',$data);
             echo view('templates/footer');
         }
-
+        
         public function gravar(){
 
             $data['session'] = \Config\Services::session();
