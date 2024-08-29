@@ -32,6 +32,9 @@ $routes->match(['get','post'], 'noticias/editar/(:num)' ,'Noticias::editar/$1');
 $routes->match(['get','post'], 'noticias/excluir/(:num)' ,'Noticias::excluir/$1');
 //$routes->get('login', 'Usuarios::index'); // Corrigir: Deve ser habilitada se em produção
 $routes->get('login', 'Usuarios::index'); // Inpotante
+$routes->get('usuarios/criar', 'Usuarios::criar');
+$routes->post('usuarios/gravar', 'Usuarios::gravar');
+
 $routes->get('usuarios/logout', 'Usuarios::logout'); //Impotante
 $routes->post('/usuarios/login', 'Usuarios::login'); // Corrigir detalhe na url
 $routes->get('noticias', 'Noticias::index');

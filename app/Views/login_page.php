@@ -11,6 +11,7 @@
             <input type="password" class="form-control" name="senha">
         </div>
         <br>
+        <?= csrf_field(); ?>
         <input type="submit" name="submit" class="btn btn-primary" value="Entrar">
         
     </form>

@@ -6,6 +6,7 @@
     class UsuariosModel extends Model {
         // Atributos de Configuração
         protected $table = 'usuarios';
+        protected $allowedFields = ['id','user', 'senha'];
         
         // Método GET
         public function getUsuarios($user, $senha){

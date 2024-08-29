@@ -9,7 +9,8 @@
             $model = new NoticiasModel();
             $data = [
                 'title' => 'Últimas Notícias',
-                'noticias' => $model->getNoticias(),
+                'noticias' => $model->paginate(1),
+                'pager' => $model->pager,
                 'session' => \Config\Services::session(),
             ];
 

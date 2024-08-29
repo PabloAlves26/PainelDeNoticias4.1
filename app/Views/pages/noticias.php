@@ -21,7 +21,9 @@
                 </div>
             </div>
         <?php endforeach; ?>
-
+            <div>
+                <?= $pager->links(); //$pager->simpleLinks(); ?> 
+            </div>
     <?php else: ?>
         <h3>Sem Noticias</h3>
         <p>Não existe nenhuma noticia cadastrada no sistema.</p>
